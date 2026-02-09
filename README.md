@@ -96,13 +96,14 @@ This project was developed utilizing Murat Yücedağ's C# Education Camp playlis
 🚀 Installation
 Clone the repository:
 
-Bash
 
+1. Projeyi Kopyalayın
 git clone [https://github.com/mertharmandarli/Araba-Otomasyonu-App.git](https://github.com/mertharmandarli/Araba-Otomasyonu-App.git)
-Ensure MongoDB is installed on your machine.
 
-Create a database named Araba_Al_Sat_MongoDBCalisma using MongoDB Compass.
+3. Ensure MongoDB is installed on your machine.
 
-Open the project in Visual Studio and restore NuGet packages (MongoDB.Driver).
+2. Create a database named Araba_Al_Sat_MongoDBCalisma using MongoDB Compass.
 
-Run the project.
+3. Open the project in Visual Studio and restore NuGet packages (MongoDB.Driver).
+
+4. Run the project.
